@@ -1,2 +1,2 @@
-# Advanced_Convolutional-Neural_Networks
+# Advanced_Convolutional_Neural_Networks
 Exploring Advanced Convolutional Neural Networks
